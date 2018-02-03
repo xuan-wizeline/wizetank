@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">WizeTank</string>
+
+    <string name="title_activity_login"></string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_signup">Sign up</string>
+    <string name="title_activity_view_ideas">View ideas</string>
+    <string name="all_ideas">All ideas</string>
+    <string name="top_rating_ideas">Top rating</string>
+    <string name="top_contributors">Top contributors</string>
+    <string name="search_ideas_hint">Search for ideas</string>
+    <string name="search_contributor_hint">Search contributor</string>
+    <string name="profile">Profile</string>
+    <string name="created_ideas">Created ideas</string>
+    <string name="contributed_ideas">Contributed ideas</string>
+    <string name="title_activity_profile">Profile</string>
+    <string name="add_idea">Add idea</string>
+    <string name="title_activity_create_idea">Create idea</string>
 </resources>
